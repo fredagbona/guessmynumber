@@ -18,6 +18,7 @@ Visit **[this link](https://guessmynumber.netlify.app)**.
 
 ## How to modify ?
 `git clone https://github.com/fredagbona/guessmynumber`
+
 `cd guessmynumber`
 
 Enjoy !!!
