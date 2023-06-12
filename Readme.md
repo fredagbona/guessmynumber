@@ -14,7 +14,7 @@ The HighScore of a player is the best score he has
 3. JS
 
 ## How to play ?
-Visit **[this link](https://guessmynumber.netlify.app)**.
+Visit **[this link](https://guessfrnumber.netlify.app)**.
 
 ## How to modify ?
 `git clone https://github.com/fredagbona/guessmynumber`
