@@ -13,12 +13,7 @@ The HighScore of a player is the best score he has
 2. CSS
 3. JS
 
-## How to play ?
+## How to play ? (only on PC)
 Visit **[this link](https://guessfrnumber.netlify.app)**.
-
-## How to modify ?
-`git clone https://github.com/fredagbona/guessmynumber`
-
-`cd guessmynumber`
 
 Enjoy !!!
